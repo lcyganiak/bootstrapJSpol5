@@ -1,0 +1,10 @@
+.btn-primary--mainBg {
+  background-color: pink;
+  border-color: pink;
+}
+
+.btn-primary--mainBg:hover {
+  background-color: #feb1be;
+  border-color: #feb1be;
+}
+/*# sourceMappingURL=style.css.map */

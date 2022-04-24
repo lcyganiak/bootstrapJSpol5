@@ -1,0 +1,19 @@
+// NIE STYLUJEMY PO KLASACH BOOTSTRAPA !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+.btn-primary--mainBg {
+    background-color: pink;
+    border-color: pink;
+    &:hover {
+        background-color: rgb(254, 177, 190);
+        border-color: rgb(254, 177, 190);
+    }
+}
+// tak nie robimy, 
+// .btn {
+//     background-color: pink;
+//     border-color: pink;
+//     &:hover {
+//         background-color: rgb(254, 177, 190);
+//         border-color: rgb(254, 177, 190);
+//     }  
+// }
